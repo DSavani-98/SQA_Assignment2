@@ -1,10 +1,9 @@
 ﻿<Properties StartupConfiguration="{F38F7BD2-7EB1-414F-BE43-90967EAEABD9}|Default">
+  <MonoDevelop.Ide.ItemProperties.SQA__Assignment.Tests FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.SQA__Assignment2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="SQA_Assignment2/Program.cs">
     <Files>
