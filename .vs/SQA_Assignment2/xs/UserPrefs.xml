@@ -2,19 +2,19 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.SQA__Assignment2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SQA_Assignment1.Tests/UnitTest1.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SQA_Assignment2/Program.cs">
     <Files>
-      <File FileName="SQA_Assignment2/Program.cs" Line="39" Column="42" />
-      <File FileName="SQA_Assignment2/Circle.cs" Line="24" Column="32" />
-      <File FileName="SQA_Assignment1.Tests/UnitTest1.cs" Line="16" Column="1" />
+      <File FileName="SQA_Assignment2/Program.cs" Line="11" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SQA_Assignment2" expanded="True">
-            <Node name="SQA_Assignment1.Tests" expanded="True" />
+            <Node name="SQA_Assignment2" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -23,7 +23,7 @@
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="SQA_Assignment2" expanded="True" selected="True" />
+          <Node name="SQA_Assignment2" selected="True" />
         </State>
       </Pad>
     </Pads>
