@@ -1,6 +1,6 @@
 ﻿using SQA_Assignment2;
 
-namespace MidTerm_Exam
+namespace ConsoleApp_Circle
 {
     class Program
     {
@@ -15,7 +15,7 @@ namespace MidTerm_Exam
             enterInitalRadiusAgain:
             if (radius < 1)
             {
-                Console.WriteLine("Please enter value greater than 0");
+                Console.WriteLine("Please enter value greater than 0\n");
                 goto enterInitalRadiusAgain;
 
             }
@@ -24,7 +24,7 @@ namespace MidTerm_Exam
             do
             {
                 Console.WriteLine("Select from below given options.\n");
-                Console.WriteLine("1. Get circle Radius \n2. Change Circle Radius \n3. Get Circle Circumference \n4. Get Circle Area \n5. Exit  \n\n");
+                Console.WriteLine("1. Get circle Radius \n2. Change Circle Radius \n3. Get Circle Circumference \n4. Get Circle Area \n5. Exit  \n");
                 choice = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine("\n");
 
@@ -34,7 +34,7 @@ namespace MidTerm_Exam
                 {
                     case 1:
 
-                        Console.WriteLine("\nThe radius of the circle is :", circle.GetRadius());
+                        Console.WriteLine("\nThe radius of the circle is : {0}\n", circle.GetRadius());
                         wantToContinue = true;
                         break;
 
@@ -58,24 +58,25 @@ namespace MidTerm_Exam
 
                     case 3:
 
-                        Console.WriteLine("\nThe circumference of the circle is :", circle.GetCircumference());
+                        Console.WriteLine("\nThe circumference of the circle is : {0}\n", circle.GetCircumference());
                         wantToContinue = true;
                         break;
 
                     case 4:
 
-                        Console.WriteLine("\nThe Area of the circle is :", circle.GetArea());
+                        Console.WriteLine("\nThe Area of the circle is : {0}\n", circle.GetArea());
                         wantToContinue = true;
                         break;
 
                     case 5:
-                        Console.WriteLine("ThankYou for using Application, Have a Nice Day!!!!");
+                        Console.WriteLine("ThankYou for using Application, Have a Nice Day!!!!\n\n");
                         wantToContinue = false;
                         break;
 
                     default:
                         Console.WriteLine("Invalid Choice!!!\n");
                         Console.WriteLine("Please select from given options.\n");
+                        wantToContinue = true;
                         break;
                 }
             }

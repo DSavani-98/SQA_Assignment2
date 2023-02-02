@@ -1,0 +1,17 @@
+C:\Users\jagjy\Source\Repos\SQA_Assignment2\SQA_Assignment2\bin\Debug\net6.0\SQA_Assignment2.exe
+C:\Users\jagjy\Source\Repos\SQA_Assignment2\SQA_Assignment2\bin\Debug\net6.0\SQA_Assignment2.deps.json
+C:\Users\jagjy\Source\Repos\SQA_Assignment2\SQA_Assignment2\bin\Debug\net6.0\SQA_Assignment2.runtimeconfig.json
+C:\Users\jagjy\Source\Repos\SQA_Assignment2\SQA_Assignment2\bin\Debug\net6.0\SQA_Assignment2.dll
+C:\Users\jagjy\Source\Repos\SQA_Assignment2\SQA_Assignment2\bin\Debug\net6.0\SQA_Assignment2.pdb
+C:\Users\jagjy\Source\Repos\SQA_Assignment2\SQA_Assignment2\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\jagjy\Source\Repos\SQA_Assignment2\SQA_Assignment2\obj\Debug\net6.0\SQA_Assignment2.csproj.AssemblyReference.cache
+C:\Users\jagjy\Source\Repos\SQA_Assignment2\SQA_Assignment2\obj\Debug\net6.0\SQA_Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jagjy\Source\Repos\SQA_Assignment2\SQA_Assignment2\obj\Debug\net6.0\SQA_Assignment2.AssemblyInfoInputs.cache
+C:\Users\jagjy\Source\Repos\SQA_Assignment2\SQA_Assignment2\obj\Debug\net6.0\SQA_Assignment2.AssemblyInfo.cs
+C:\Users\jagjy\Source\Repos\SQA_Assignment2\SQA_Assignment2\obj\Debug\net6.0\SQA_Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\jagjy\Source\Repos\SQA_Assignment2\SQA_Assignment2\obj\Debug\net6.0\SQA_Assignment2.csproj.CopyComplete
+C:\Users\jagjy\Source\Repos\SQA_Assignment2\SQA_Assignment2\obj\Debug\net6.0\SQA_Assignment2.dll
+C:\Users\jagjy\Source\Repos\SQA_Assignment2\SQA_Assignment2\obj\Debug\net6.0\refint\SQA_Assignment2.dll
+C:\Users\jagjy\Source\Repos\SQA_Assignment2\SQA_Assignment2\obj\Debug\net6.0\SQA_Assignment2.pdb
+C:\Users\jagjy\Source\Repos\SQA_Assignment2\SQA_Assignment2\obj\Debug\net6.0\SQA_Assignment2.genruntimeconfig.cache
+C:\Users\jagjy\Source\Repos\SQA_Assignment2\SQA_Assignment2\obj\Debug\net6.0\ref\SQA_Assignment2.dll

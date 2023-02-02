@@ -32,10 +32,14 @@
           "NETStandard.Library": "2.0.0"
         },
         "compile": {
-          "lib/netstandard2.0/nunit.framework.dll": {}
+          "lib/netstandard2.0/nunit.framework.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/nunit.framework.dll": {}
+          "lib/netstandard2.0/nunit.framework.dll": {
+            "related": ".xml"
+          }
         },
         "build": {
           "build/NUnit.props": {}
@@ -220,24 +224,26 @@
     ]
   },
   "packageFolders": {
-    "/Users/m_king_1604/.nuget/packages/": {}
+    "C:\\Users\\jagjy\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/m_king_1604/Projects/SQA_Assignment2/SQA_Assignment2/SQA_Assignment2.csproj",
+      "projectUniqueName": "C:\\Users\\jagjy\\Source\\Repos\\SQA_Assignment2\\SQA_Assignment2\\SQA_Assignment2.csproj",
       "projectName": "SQA_Assignment2",
-      "projectPath": "/Users/m_king_1604/Projects/SQA_Assignment2/SQA_Assignment2/SQA_Assignment2.csproj",
-      "packagesPath": "/Users/m_king_1604/.nuget/packages/",
-      "outputPath": "/Users/m_king_1604/Projects/SQA_Assignment2/SQA_Assignment2/obj/",
+      "projectPath": "C:\\Users\\jagjy\\Source\\Repos\\SQA_Assignment2\\SQA_Assignment2\\SQA_Assignment2.csproj",
+      "packagesPath": "C:\\Users\\jagjy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jagjy\\Source\\Repos\\SQA_Assignment2\\SQA_Assignment2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/m_king_1604/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\jagjy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -277,7 +283,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
